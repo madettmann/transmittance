@@ -1,0 +1,3 @@
+
+source /home/mdettmann/transmittance/bin/activate
+python /home/mdettmann/transmittance/plot_transmittance.py
